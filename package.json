@@ -11,5 +11,7 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongoose": "^7.0.2"
-  }
+  },
+  "repository": "https://github.com/Shivani610/react-portfolio.git",
+  "author": "Shivani610 <rautshivani1806@gmail.com>"
 }
