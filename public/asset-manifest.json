@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc0e621d.css",
-    "main.js": "/static/js/main.82253f6b.js",
+    "main.css": "/static/css/main.969bf430.css",
+    "main.js": "/static/js/main.99c4812b.js",
     "static/media/ShivaniRaut_Resume_new.pdf": "/static/media/ShivaniRaut_Resume_new.c43df4a1e6c9413242b4.pdf",
     "index.html": "/index.html",
-    "main.fc0e621d.css.map": "/static/css/main.fc0e621d.css.map",
-    "main.82253f6b.js.map": "/static/js/main.82253f6b.js.map"
+    "main.969bf430.css.map": "/static/css/main.969bf430.css.map",
+    "main.99c4812b.js.map": "/static/js/main.99c4812b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc0e621d.css",
-    "static/js/main.82253f6b.js"
+    "static/css/main.969bf430.css",
+    "static/js/main.99c4812b.js"
   ]
 }
